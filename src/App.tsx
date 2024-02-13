@@ -20,14 +20,14 @@ export default function Page() {
       "What about a matcha frostie",
       "PLEASE POOKIE",
       "But :*(",
-      "I am going to die",
-      "Yep im dead",
-      "ok ur talking to nathan's ghost",
-      "please babe",
+      "Me go sad and you...",
+      "You akela ho jana pookieee",
+      "huhhhh me chuhhaaaaa think again",
+      "please babyy",
       ":((((",
       "PRETTY PLEASE",
-      "Estoy muerto",
-      "No :(",
+      "Daisukii or Saranghae pwetty pizzieee",
+      "No :( dumbyyyy",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
